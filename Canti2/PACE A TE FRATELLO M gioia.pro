@@ -1,0 +1,15 @@
+{title:PACE A TE FRATELLO M.Gioia}
+{SUBtitle: bambini}
+{time: 2:21}
+
+[D] [D7] [D] [D7]
+
+[D]PACE PACE, [G]PACE A [D]TE
+[D]PACE [Bm]PACE, [G]PACE A [A]TE
+LA [D]PACE [F#]SIA CON [Bm]TE FRA[G]TELLO
+LA [D]PACE [A]SIA CON [D]TE
+
+[D]PACE PACE, [G]PACE A [D]TE
+[D]PACE [Bm]PACE, [G]PACE A [A]TE
+LA [D]PACE [F#]SIA CON [Bm]TE FRA[G]TELLO
+LA [D]PACE [A]SIA CON [D]TE
